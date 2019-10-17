@@ -33,6 +33,10 @@ NRP: 06111840000096
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
 masukkan screenshot output disini
+![image](https://user-images.githubusercontent.com/56068949/67029232-1e93aa80-f137-11e9-933e-34a7f621145f.png)
+![image](https://user-images.githubusercontent.com/56068949/67029277-323f1100-f137-11e9-9fea-f373df34b940.png)
+![image](https://user-images.githubusercontent.com/56068949/67029410-6b778100-f137-11e9-9dcf-90bbdbff7588.png)
+![image](https://user-images.githubusercontent.com/56068949/67029451-834f0500-f137-11e9-9b59-3abdf0bd5c23.png)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
