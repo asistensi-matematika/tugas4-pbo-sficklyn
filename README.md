@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Muh Syafiq Hidayatullah
 
-NRP: `isi nrp disini`
+NRP: 06111840000096
 
 ## Deskripsi Tugas
 
